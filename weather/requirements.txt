@@ -1,0 +1,2 @@
+npm i web-vitals --save-dev
+pip install djangorestframework django-cors-headers
